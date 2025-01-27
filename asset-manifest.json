@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.bd67209b.css",
-    "main.js": "/static/js/main.9e31d953.js",
+    "main.css": "/static/css/main.ebf6da11.css",
+    "main.js": "/static/js/main.001d4c81.js",
     "static/js/488.4cd8d5e4.chunk.js": "/static/js/488.4cd8d5e4.chunk.js",
     "static/media/5016826_Windmill_Wind_3840x2160.mp4": "/static/media/5016826_Windmill_Wind_3840x2160.3c9670a2e899f42fe84e.mp4",
     "static/media/istock-1307978273-l-ewi.jpg": "/static/media/istock-1307978273-l-ewi.51f0467afb0fa5444508.jpg",
@@ -29,27 +29,22 @@
     "static/media/zcp7yuzh-retrofit.jpg": "/static/media/zcp7yuzh-retrofit.82b6ade1b2274a23316c.jpg",
     "static/media/7rpoibg1-trustmark.jpg": "/static/media/7rpoibg1-trustmark.b68100af145d8ad44dd5.jpg",
     "static/media/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2": "/static/media/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.715cc83767e6bd43255c.woff2",
-    "static/media/S6uyw4BMUTPHjx4wXiWtFCc.woff2": "/static/media/S6uyw4BMUTPHjx4wXiWtFCc.e775ceff7a09df48e9e9.woff2",
     "static/media/8x4swkmi-scottishpower.jpg": "/static/media/8x4swkmi-scottishpower.6f0f22c229c65dfa6485.jpg",
     "static/media/bab-logo.png": "/static/media/bab-logo.147654916e82a3154f28.png",
-    "static/media/pxiDyp8kv8JHgFVrJJLm21lVF9eOYktMqg.woff2": "/static/media/pxiDyp8kv8JHgFVrJJLm21lVF9eOYktMqg.d0e4578965a5410bf66d.woff2",
     "static/media/IZ-Logo.svg": "/static/media/IZ-Logo.99cfa9f05c58959d228a5a06eeb6bd5e.svg",
     "static/media/pxiByp8kv8JHgFVrLEj6Z1xlFd2JQEk.woff2": "/static/media/pxiByp8kv8JHgFVrLEj6Z1xlFd2JQEk.9239397907d5197117fb.woff2",
     "static/media/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2": "/static/media/pxiEyp8kv8JHgFVrJJfecnFHGPc.798861c4dd16a4b5f631.woff2",
-    "static/media/pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2": "/static/media/pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.144be8655ac016b9f7ca.woff2",
-    "static/media/pxiByp8kv8JHgFVrLDz8Z1xlFd2JQEk.woff2": "/static/media/pxiByp8kv8JHgFVrLDz8Z1xlFd2JQEk.e4dccc3f9f6dfe823809.woff2",
-    "static/media/pxiByp8kv8JHgFVrLDD4Z1xlFd2JQEk.woff2": "/static/media/pxiByp8kv8JHgFVrLDD4Z1xlFd2JQEk.4bf239094c99407946a9.woff2",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.bd67209b.css.map": "/static/css/main.bd67209b.css.map",
-    "main.9e31d953.js.map": "/static/js/main.9e31d953.js.map",
+    "main.ebf6da11.css.map": "/static/css/main.ebf6da11.css.map",
+    "main.001d4c81.js.map": "/static/js/main.001d4c81.js.map",
     "488.4cd8d5e4.chunk.js.map": "/static/js/488.4cd8d5e4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd67209b.css",
-    "static/js/main.9e31d953.js"
+    "static/css/main.ebf6da11.css",
+    "static/js/main.001d4c81.js"
   ]
 }
